@@ -1,0 +1,207 @@
+Hostname: 133.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: 619.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: 666.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: 921.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: 3010.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: 14BME.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: albums.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: AR.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: archive.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: Au.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: bar.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: blag.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: blog.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: class.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: courses.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: DBQC.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: duck.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: feed.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: FLOSS.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: foo.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: forum29.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: FOSS.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: gallery.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: GEO.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: help.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: high.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: history.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: its.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: K.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: ksaipra.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: li.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: low.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: mozilla.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: news.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: NIKHILPANDITA.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: pic.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: SGN.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: showcase.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: showcase.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: so.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: SORT.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: StMarysDwarka.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: streams.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: VITUniversity.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: vlag.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: vlog.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: wiki.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: www.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: X.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: XENON.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: xlag.n1x.site
+Value: n1x.site
+TTL: 28800
+
+Hostname: xlog.n1x.site
+Value: n1x.site
+TTL: 28800
